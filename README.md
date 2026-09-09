@@ -1,4 +1,4 @@
-The el_motor_health_saviour is a project which is perfect mixture of Machine Learning and Electrical Engineering. 
+"EMoDo" (Electric Motor Doctor) is a project which is perfect mixture of Machine Learning and Electrical Engineering. 
 
 Problem aiming to solve : The heavy industrial motors especially Permanent Magnet Synchronous Motors are have the spinning rotor which when runs at a certain speed,the winding gets heated and this leads to the demagnetization of the permanent magnets. This demagnetization reduces the efficiency of the motor and might also even break down on some random Friday evening.
 
